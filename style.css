@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-image: url("whatsapp doodle.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#d2 {
+    color: navy;
+    display: inline;
+  
+}
+
+#d1 {
+    color: darkblue;
+    display: inline;
+    
+}
+#d3 {
+    color:  green;
+    display: inline;
+    
+}
